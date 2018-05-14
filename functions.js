@@ -1,4 +1,4 @@
 
 function sendEmail(){
-	window.open('mailto:tanner.barlow12@gmail.com?subject=Test&body=Hey Tanner, How you doing?')
+	window.open('mailto:rob.unzaga@gmail.com?subject=Test&body=Hey Tanner, How you doing?')
 }
