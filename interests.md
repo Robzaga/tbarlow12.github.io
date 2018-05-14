@@ -4,7 +4,7 @@ title: Interests
 permalink: /interests/
 ---
 
-A lot of the work I have done in school, internships and in side projects has been focused on data science and artificial intelligence. Some of my favorite courses I have taken have been in **natural language processing**, **information extraction** and **machine learning**. Go [here](projects.md) to read more about some of my favorite projects.
+A lot of the work I have done in school and internship has been focused on C++ and C#. Some of my favorite courses I have taken have been in **Advanced High Performance Computer Architecture**, **Embedded Systems 1 & 2** and **Senior Design Project**. Go [here](projects.md) to read more about some of my favorite projects.
 
 ## Technologies I'm Currently Teaching Myself:
 - Apache Spark
@@ -21,8 +21,7 @@ A lot of the work I have done in school, internships and in side projects has be
 
 # Personal
 
-I'm married to the most beautiful girl in the world and we have an awesome baby boy. 
+I have a beautiful wife and we have a gorgeous daughter, who is almost a one-year-old. Being a husband and father has been the best and most rewarding experience I've had.
 
-I've loved basketball since I could walk (I grew up with a dad and grandpa that coached for 30+ years each), and John Wooden is one of my all-time heroes (for some of my favorite "Wooden-isms", visit [this blog post](/woodenisms/)).
+I love the Marvel Cinematic Universe along with other action packed movies. My wife and I love to go to Megaplex Theatres with our friends to see the latest blockbusters, especially in the summer. I am very passionate about spending my free time with my family doing activities. I feel like our personal relationships are the most important to maintain.
 
-Cheeseburgers are my Kryptonite and I can't get enough of super-hero movies, but my absolute favorite things in the world are dance parties with my wife and making my son laugh 'till he squeals.
