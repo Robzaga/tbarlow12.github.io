@@ -27,13 +27,22 @@ permalink: /experience/
   </ul>
 </details> 
 
+## Work Ethic
+I don’t stop until the job is done, and done right. I go for “outstanding” in everything I do. I put in the extra hours to get things right, giving attention to detail and devotion to excellence. My passion shows in how hard I work and it shows in the results I achieve. I truly believe that my success in life have come from my relentless hard working spirit. 
 
-# Education
+## Desired Qualities
+<ul>
+  <li>Creativity is one of my greatest strengths. I have always had a way of thinking outside the box to figure out solutions.</li?
+  <li>Willing to take new perspectives to day-to-day work.</li>
+  <li>Open to do different things and to do things differently.</li>
+  <li>Always striving to create value in new ways.</li>
+  <li>Listening to others.</li>
+  <li>Supporting and respecting others when they come up with new ideas.</li>
+  </ul>
 
-#### Bachelor of Science in Computer Engineering from Utah Valley University
-- NSF LEAP - Full Tuition Scholarship
-- Graduated May 2018
-# What Others Have Said About Me
+
+
+## What Others Have Said About My Performance
 
 <ul>
 "Roberto Unzaga was employed with Taylor’s Boats during his time in school.  Because he was not a long-term associate we moved Rob around the company wherever we needed him whenever we needed to.  Rob had a great attitude and would jump in and help in anything or anyplace we needed him.  He was a very hard worker and was willing to work long and hard hours.  Being a seasonal company he was needed many times for very long days.  He was always dependable and we could always count on him."   
@@ -56,3 +65,10 @@ was a collaborative effort and Rob is an excellent team player."
 Eric Ehlen   
 Project Manager, BAE Systems, Inc.
 </ul>
+
+
+# Education
+
+#### Bachelor of Science in Computer Engineering from Utah Valley University
+- NSF LEAP - Full Tuition Scholarship
+- Graduated May 2018
