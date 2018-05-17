@@ -54,7 +54,7 @@ I don’t stop until the job is done, and done right. I go for “outstanding”
       Eric Ehlen, Project Manager, BAE Systems, Inc.
     </summary>
 <ul>
-  "Rob always has a great attitude and is very dependable. He has a great work ethic. Rob continually comes up with self-generated ideas to make the process better and he bounces those ideas off his teammates to make sure they are on-target. He is clear and concise, not just in speaking, but in his writing. The Process Model Toolkit project was a collaborative effort and Rob is an excellent team player."
+  "Rob always has a great attitude and is very dependable; he has a great work ethic. Rob continually comes up with self-generated ideas to make the process better and he bounces those ideas off his teammates to make sure they are on-target. He is clear and concise, not just in speaking, but in his writing. The Process Model Toolkit project was a collaborative effort and Rob is an excellent team player."
     </ul>
 </details>
 
