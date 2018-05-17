@@ -38,7 +38,7 @@ I don’t stop until the job is done, and done right. I go for “outstanding”
   <li>Always striving to create value in new ways.</li>
   <li>Listening to others.</li>
   <li>Supporting and respecting others when they come up with new ideas.</li>
-  </ul>
+</ul>
 
 
 
