@@ -40,29 +40,23 @@ I don’t stop until the job is done, and done right. I go for “outstanding”
   <li>Supporting and respecting others when they come up with new ideas.</li>
 </ul>
 
-
-
 ## What Others Have Said About My Performance
-
+<details>
+  <summary>
+    Taylor Richards, President, Taylor's Boats, Inc.
+  </summary>
 <ul>  
-"I found Rob’s character very impressive.  He was not just a hard worker with a great attitude but he had great integrity and honesty.  I completely trusted Rob to do a great job, take good care of customers and support his teammates.  He was entrusted with company equipment, vehicles and customer’s very expensive boats.  I always had total confidence in anything Rob was involved in.  I knew the work would be performed with excellence."              
-"Rob was very teachable.  We had many training meeting with our associates and Rob always took everything he was trained on and immediately applied the principles taught and contributed to the success of our team."     
-"I can confidently give Roberto Unzaga my highest recommendation."
-
-Taylor Richards   
-President, Taylor’s Boats, Inc.
+"I found Rob’s character very impressive. He was not just a hard worker with a great attitude but he had great integrity and honesty. I completely trusted Rob to do a great job, take good care of customers and support his teammates. He was entrusted with company equipment, vehicles and customer’s very expensive boats. I always had total confidence in anything Rob was involved in. I knew the work would be performed with excellence. Rob was very teachable. We had many training meeting with our associates and Rob always took everything he was trained on and immediately applied the principles taught and contributed to the success of our team. I can confidently give Roberto Unzaga my highest recommendation."
 </ul>
-
+  </details>
+  <details>
+    <summary>
+      Eric Ehlen, Project Manager, BAE Systems, Inc.
+    </summary>
 <ul>
-  "Rob always has a great attitude and is very dependable. He has a great work ethic, especially with time charging. Rob
-continually comes up with self-generated ideas to make the process better and he bounces those ideas off his teammates to
-make sure they are on-target. He is clear and concise, not just in speaking, but in his writing. The Process Model Toolkit project
-was a collaborative effort and Rob is an excellent team player."
-  
-
-Eric Ehlen   
-Project Manager, BAE Systems, Inc.
-</ul>
+  "Rob always has a great attitude and is very dependable. He has a great work ethic. Rob continually comes up with self-generated ideas to make the process better and he bounces those ideas off his teammates to make sure they are on-target. He is clear and concise, not just in speaking, but in his writing. The Process Model Toolkit project was a collaborative effort and Rob is an excellent team player."
+    </ul>
+</details>
 
 
 # Education
