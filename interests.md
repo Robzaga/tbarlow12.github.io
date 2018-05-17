@@ -6,6 +6,8 @@ permalink: /interests/
 
 A lot of the work I have done in school and internship has been focused on C++ and C#. Some of my favorite courses I have taken have been in **Advanced High Performance Computer Architecture**, **Embedded Systems 1 & 2** and **Senior Design Project**. Go [here](projects.md) to read more about some of my favorite projects.
 
+
+
 # Personal
 
 I have a beautiful wife and we have a gorgeous daughter, who is almost a one-year-old. Being a husband and father has been the best and most rewarding experience I've had.
