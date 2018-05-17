@@ -45,8 +45,8 @@ I don’t stop until the job is done, and done right. I go for “outstanding”
 ## What Others Have Said About My Performance
 
 <ul>  
-"I found Rob’s character very impressive.  He was not just a hard worker with a great attitude but he had great integrity and honesty.  I completely trusted Rob to do a great job, take good care of customers and support his teammates.  He was entrusted with company equipment, vehicles and customer’s very expensive boats.  I always had total confidence in anything Rob was involved in.  I knew the work would be performed with excellence."       
-"Rob was very teachable.  We had many training meeting with our associates and Rob always took everything he was trained on and immediately applied the principles taught and contributed to the success of our team."
+"I found Rob’s character very impressive.  He was not just a hard worker with a great attitude but he had great integrity and honesty.  I completely trusted Rob to do a great job, take good care of customers and support his teammates.  He was entrusted with company equipment, vehicles and customer’s very expensive boats.  I always had total confidence in anything Rob was involved in.  I knew the work would be performed with excellence."              
+"Rob was very teachable.  We had many training meeting with our associates and Rob always took everything he was trained on and immediately applied the principles taught and contributed to the success of our team."     
 "I can confidently give Roberto Unzaga my highest recommendation."
 
 Taylor Richards   
