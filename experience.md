@@ -32,7 +32,7 @@ I don’t stop until the job is done, and done right. I go for “outstanding”
 ## Desired Qualities
 
 <ul>
-  <li>Creativity is one of my greatest strengths. I have always had a way of thinking outside the box to figure out solutions.</li?
+  <li>Creativity is one of my greatest strengths. I have always had a way of thinking outside the box to figure out solutions.</li>
   <li>Willing to take new perspectives to day-to-day work.</li>
   <li>Open to do different things and to do things differently.</li>
   <li>Always striving to create value in new ways.</li>
