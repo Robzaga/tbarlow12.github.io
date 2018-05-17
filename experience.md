@@ -44,12 +44,10 @@ I don’t stop until the job is done, and done right. I go for “outstanding”
 
 ## What Others Have Said About My Performance
 
-<ul>
-"Roberto Unzaga was employed with Taylor’s Boats during his time in school.  Because he was not a long-term associate we moved Rob around the company wherever we needed him whenever we needed to.  Rob had a great attitude and would jump in and help in anything or anyplace we needed him.  He was a very hard worker and was willing to work long and hard hours.  Being a seasonal company he was needed many times for very long days.  He was always dependable and we could always count on him."   
+<ul>  
 "I found Rob’s character very impressive.  He was not just a hard worker with a great attitude but he had great integrity and honesty.  I completely trusted Rob to do a great job, take good care of customers and support his teammates.  He was entrusted with company equipment, vehicles and customer’s very expensive boats.  I always had total confidence in anything Rob was involved in.  I knew the work would be performed with excellence."       
-"Rob was also a great member of our team.  He was very enjoyable to work with.  We all loved having him on the team.  He was a serious, hard worker but also fun and friendly.  All of his teammates as well as our customers loved Rob."  
 "Rob was very teachable.  We had many training meeting with our associates and Rob always took everything he was trained on and immediately applied the principles taught and contributed to the success of our team."
-    "I can confidently give Roberto Unzaga my highest recommendation."
+"I can confidently give Roberto Unzaga my highest recommendation."
 
 Taylor Richards   
 President, Taylor’s Boats, Inc.
