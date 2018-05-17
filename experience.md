@@ -21,8 +21,7 @@ permalink: /experience/
   </summary>
   <ul>
             <li>Developed, as a team, the Process Model Toolkit (PMT) and programmed in C# and XAML</li>
-          <li>Communicate directly with government customer over New START Treaty to make improvements to
-            PMT and present to customer and internal employees</li>
+          <li>Communicate directly with government customer over New START Treaty to make improvements to PMT and present to customer and internal employees</li>
           <li>Attained clearance of SECRET and is current to attend meetings in Classified Environment</li>
   </ul>
 </details> 
@@ -31,6 +30,7 @@ permalink: /experience/
 I don’t stop until the job is done, and done right. I go for “outstanding” in everything I do. I put in the extra hours to get things right, giving attention to detail and devotion to excellence. My passion shows in how hard I work and it shows in the results I achieve. I truly believe that my success in life have come from my relentless hard working spirit. 
 
 ## Desired Qualities
+
 <ul>
   <li>Creativity is one of my greatest strengths. I have always had a way of thinking outside the box to figure out solutions.</li?
   <li>Willing to take new perspectives to day-to-day work.</li>
