@@ -6,6 +6,14 @@ permalink: /interests/
 
 A lot of the work I have done in school and internship has been focused on C++ and C#. Some of my favorite courses I have taken have been in **Advanced High Performance Computer Architecture**, **Embedded Systems 1 & 2** and **Senior Design Project**. Go [here](projects.md) to read more about some of my favorite projects.
 
+### Technologies I'm Currently Teaching Myself
+<ul>
+  <li>Python</li>
+  <li>SQL</li>
+  <li>Java</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  </ul>
 
 
 # Personal
