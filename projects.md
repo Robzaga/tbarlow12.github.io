@@ -8,8 +8,9 @@ permalink: /projects/
   - Implements Home Automation and Security on Raspberry Pi using Z-Wave Protocol
 - [Virtual Machine](https://github.com/robzaga/VirtualMachine) 
   - Inputs Assembly Language as bit data into memory and executes multi-threaded functions
+- [Motorola Microcontroller](https://github.com/Robzaga/MotorolaMicrocontroller)
+  - Wrote Assembly Language commands to control PWM, Fuzzy Logic, etc.
 - Traffic Light
   - Used FPGA to emulate a traffic light with code written in Verilog
-- Motorola Microcontroller
-  - Wrote Assembly Language commands to control PWM, Fuzzy Logic, etc.
+
 
