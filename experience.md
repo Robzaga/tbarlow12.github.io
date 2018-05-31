@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-#### May 2018 - present <br> BAE Systems - Software Engineer
+### May 2018 - present <br> BAE Systems - Software Engineer
 <details>
   <summary>
    Show details
@@ -14,7 +14,7 @@ permalink: /experience/
   </ul>
 </details> 
 
-#### December 2016 - April 2018 <br> BAE Systems - Computer Science Technical Intern
+### December 2016 - April 2018 <br> BAE Systems - Computer Science Technical Intern
 <details>
   <summary>
    Show details
