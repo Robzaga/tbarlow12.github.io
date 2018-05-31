@@ -18,7 +18,5 @@ A lot of the work I have done in school and internship has been focused on C++ a
 
 # Personal
 
-I have a beautiful wife and we have a gorgeous daughter, who is almost a one-year-old. Being a husband and father has been the best and most rewarding experience I've had.
-
-I love the Marvel Cinematic Universe along with other action packed movies. My wife and I love to go to Megaplex Theatres with our friends to see the latest blockbusters, especially in the summer. I am very passionate about spending my free time with my family doing activities. I feel like our personal relationships are the most important to maintain.
+I have a beautiful wife that I love who spends her days with our daughter, who is almost one, as a stay at home mom while working part-time with a group of adults who are mentally challenged. We love spending time together out of the home with activities such as bowling, swimming, going to the park, and  spending time with the grandparents. We recently bought a home in American Fork and we’re so excited to make it our own. My wife and I love to go to the movies with our group of friends to see the latest blockbusters. I love the Avengers and the movies they keep coming out with. I hope they don’t end!
 
