@@ -61,6 +61,6 @@ I don’t stop until the job is done, and done right. I go for “outstanding”
 
 # Education
 
-#### Bachelor of Science in Computer Engineering from Utah Valley University
+### Bachelor of Science in Computer Engineering from Utah Valley University
 - NSF LEAP - Full Tuition Scholarship
 - Graduated May 2018
