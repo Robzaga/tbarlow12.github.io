@@ -39,6 +39,7 @@ I don’t stop until the job is done, and done right. I go for “outstanding”
   <li>Listening to others.</li>
   <li>Supporting and respecting others when they come up with new ideas.</li>
 </ul>
+
 ## Leadership Experience
 Leadership positions as LDS missionary in Columbus, Ohio, leading as many as 20 missionaries at one time. I was a trainer four different times, a District Leader, and a Zone Leader up until I came home. This experience was very meaningful and insightful in teaching me that people are people. Everyone has problems and hard days and that's alright; I think asking them what's going on is one of the best things you can do.
 
