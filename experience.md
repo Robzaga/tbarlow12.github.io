@@ -3,6 +3,13 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
+# Education
+
+### Bachelor of Science in Computer Engineering from Utah Valley University
+- NSF LEAP - Full Tuition Scholarship
+- Graduated May 2018
+
+# Work Experience
 
 ### May 2018 - present <br> BAE Systems - Software Engineer
 <details>
@@ -62,8 +69,4 @@ Leadership positions as LDS missionary in Columbus, Ohio, leading as many as 20 
 </details>
 
 
-# Education
 
-### Bachelor of Science in Computer Engineering from Utah Valley University
-- NSF LEAP - Full Tuition Scholarship
-- Graduated May 2018
