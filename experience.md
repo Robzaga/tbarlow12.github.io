@@ -22,7 +22,7 @@ permalink: /experience/
    Show details
   </summary>
   <ul>
-            <li>Developed, as a team, the Process Model Toolkit (PMT) and programmed in C# and XAML</li>
+            <li>Developed, as a team, the Process Model Toolkit (PMT) and programmed in C# and WPF</li>
           <li>Communicate directly with government customer over New START Treaty to make improvements to PMT and present to customer and internal employees</li>
           <li>Attained clearance of SECRET and is current to attend meetings in Classified Environment</li>
   </ul>
