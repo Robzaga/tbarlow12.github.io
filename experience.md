@@ -12,7 +12,7 @@ permalink: /experience/
    Show details
   </summary>
   <ul>
-    <li>Writing Developers Guide for ICBM Simulation software developed with MATLAB scripts</li>
+    <li>Working with simulation software for ICBM and in process of writing Developer’s Manual</li>
   </ul>
 </details> 
 
