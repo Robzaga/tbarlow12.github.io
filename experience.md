@@ -29,7 +29,7 @@ permalink: /experience/
 </details> 
 
 ## Work Ethic
-I don’t stop until the job is done, and done right. I go for “outstanding” in everything I do. I put in the extra hours to get things right, giving attention to detail and devotion to excellence. My passion shows in how hard I work and it shows in the results I achieve. I truly believe that my success in life have come from my relentless hard working spirit. 
+I don’t stop until the job is done, and done right. I go for “outstanding” in everything I do. I put in the extra hours to get things right, giving attention to detail and devotion to excellence. My passion shows in how hard I work and it shows in the results I achieve. I truly believe that my successes in life have come from my relentless hard working spirit. 
 
 ## Desired Qualities
 
