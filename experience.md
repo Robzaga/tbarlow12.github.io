@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-# Work Experience
+# Work
 
 ### May 2018 - present <br> BAE Systems - Software Engineer
 <details>
@@ -42,8 +42,11 @@ I don’t stop until the job is done, and done right. I go for “outstanding”
   <li>Supporting and respecting others when they come up with new ideas.</li>
 </ul>
 
-## Leadership Experience
+## Leadership 
 Leadership positions as LDS missionary in Columbus, Ohio, leading as many as 20 missionaries at one time. I was a trainer four different times, a District Leader, and a Zone Leader up until I came home. This experience was very meaningful and insightful in teaching me that people are people. Everyone has problems and hard days and that's alright; I think asking them what's going on is one of the best things you can do.
+
+## Service
+I have received an Academic Award from AmeriCorps for over 300 hours of service to elementary kids in Orem. This was the best job I've ever had because I got to tutor kids that were in kindergarten up to 6th grade. I helped them with reading, writing, math, and got to help two Brazilian children and one Russian child learn English. I also helped with their first musical in years and got to play with them at recess. Helping those kids and building relationships will be an experience I will never forget. Serving not only helped the kids but also gave me skills in teaching my own children.
 
 ## What Others Have Said About My Performance
 <details>
